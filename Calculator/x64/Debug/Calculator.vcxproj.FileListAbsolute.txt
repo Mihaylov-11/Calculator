@@ -1,0 +1,4 @@
+D:\Users\Mihaylov\Desktop\c++ calculator\Calculator\x64\Debug\Calculator.vcxproj.AssemblyReference.cache
+D:\Users\Mihaylov\Desktop\c++ calculator\Calculator\x64\Debug\Calculator.MyForm.resources
+D:\Users\Mihaylov\Desktop\c++ calculator\Calculator\x64\Debug\Calculator.vcxproj.GenerateResource.cache
+D:\Users\Mihaylov\Desktop\c++ calculator\Calculator\x64\Debug\Calculator.exe
